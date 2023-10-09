@@ -1,5 +1,6 @@
 ---
 layout: page
+title: HOME
 ---
 # Get Ahead of the Competition
 

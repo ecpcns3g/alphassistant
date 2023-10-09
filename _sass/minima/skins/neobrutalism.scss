@@ -1,0 +1,30 @@
+@charset "utf-8";
+
+// Background colors
+$background-color-1: #FCDFFF;
+$background-color-2: #E3DFF2;
+$background-color-3: #F8D6B3;
+
+// Font specifications
+$font-family: "Abadi", sans-serif; // Fallback to sans-serif if Abadi is unavailable
+$font-color: black;
+$font-weight: bold;
+$font-size-base: 18px; // Larger than the default, adjust as needed
+
+// Accent colors
+$accent-color-1: #A488EF;
+$accent-color-2: #91ED91;
+$accent-color-3: #FFB3EF;
+
+@import "minima";
+
+// Additional customizations go here
+
+body {
+    font-family: $font-family;
+    color: $font-color;
+    font-weight: $font-weight;
+    background-color: $background-color-1; // Or whichever background color you prefer
+}
+
+// And so on, for other elements and custom styles you wish to apply
