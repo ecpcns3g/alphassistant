@@ -3,11 +3,7 @@ layout: default
 title: αssistant
 ---
 
-# Get Ahead of the
-Competition
-![image](https://github.com/ecpcns3g/alphassistant/assets/122261019/93cbb31b-9518-4a0d-9535-f10282f40d0d)
-
-![image](https://github.com/ecpcns3g/alphassistant/assets/122261019/9cd770b0-0d97-4760-a3d1-843b7910758f)
+# Get Ahead of the Competition
 
 ## Outperform
 Navigate the digital realm effortlessly, armed with AI-driven strategies.
