@@ -1,7 +1,5 @@
 ---
-layout: home
-title: ""
-permalink: ""
+layout: page
 ---
 # Get Ahead of the Competition
 
