@@ -3,20 +3,20 @@ layout: page
 title: faq
 permalink: /faq/
 ---
-** Is this a real app? **
+### Is this a real app?
 You bet it is! Think of it as the next-gen version of ChatGPT. Unlike your granda’s one-question-at-a-time ChatGPT, alphassistant dives deep with a sequence of tools to fetch you top-notch answers.
 
-** What is it? **
+### What is it?
 It's a Discord bot. We decided to skip making yet another app because, let's face it, our phones are already cluttered. Plus, building on Discord lets us pour our energy into making the AI even smarter.
 
-** Alpha? **
+### Alpha?
 Okay, here's the deal: In the world of investing, "Alpha" is like having the Bobby-Axelrod-secret-sauce that lets you outdo everyone else. It's that special edge. And that's exactly what we're aiming for with this bot - giving you that winning edge!
 
-** Is alphassistant built on LangChain? **
+### Is alphassistant built on LangChain?
 Nope! LangChain's cool and all, but we wanted top-tier performance, so we started from scratch.
 
-** Is it free? **
+### Is it free?
 Right now, absolutely. It does cost us a bit to keep the lights on, hence the invite system. But here's the deal: if you're one of the early birds, we're aiming to keep it free for you!
 
-** Will it be Open Source? **
+### Will it be Open Source?
 Still thinking that one over, but leaning towards 'no’.
